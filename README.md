@@ -5,7 +5,7 @@ This code requires [paleoSpec](https://github.com/sbaum90/paleoSpec) for the gen
 https://github.com/sbaum90/paleoSpec
 
 # WIMP_reach
-This module computes the sensivity of a paleo-detector to the usual WIMP signal from the ambient dark matter halo. 
+This module can compute the projected (90% confidence level) exclusion limits and the (5 sigma) dissovery limit of a paleo-detector to the usual WIMP signal from the ambient dark matter halo. 
 
 Usage: Call as `python3 WIMP_reach.py RUNFILE`, where `RUNFILE` is the name (without the .py file extension!) of the runfile. See `WIMP_default_runfile.py` for an example of the syntax and the parameters which should be entered.
 
