@@ -4,7 +4,7 @@ Tools to project the sensitivity of paleo detectors.
 This code requires [paleoSpec](https://github.com/sbaum90/paleoSpec) for the generation of the background and signal spectra. You can get it from
 https://github.com/sbaum90/paleoSpec
 
-If you use **paleoSens** for your work, please cite [arXiv:1806.05991](https://arxiv.org/abs/1806.05991), [arXiv:1811.06844](https://arxiv.org/abs/1811.06844), and [arXiv:1906.05800](https://arxiv.org/abs/1906.05800).
+If you use **paleoSens** for your work, please cite [arXiv:1806.05991](https://arxiv.org/abs/1806.05991), [arXiv:1811.06844](https://arxiv.org/abs/1811.06844), [arXiv:1906.05800](https://arxiv.org/abs/1906.05800), and [arXiv:2106.06559](https://arxiv.org/abs/2106.06559).
 
 # WIMP_reach
 This module can compute the projected (90% confidence level) exclusion limits and the (5 sigma) dissovery limit of a paleo-detector to the usual WIMP signal from the ambient dark matter halo. 
