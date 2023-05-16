@@ -891,7 +891,7 @@ def main_runner():
             pool.close()
             pool.join()
         else:
-            reach = [fun(spec_DM) for spec_DM in DM_spec]
+            reach = [fun(DM_spec) for DM_spec in Spec_DM]
         # write output to file
         output = np.array([DM_masses, ref_xsec*np.array(reach)]).T
         fout = run_params.fout_name + "_"+run_params.mineral_name+"_discovery.txt"
